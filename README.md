@@ -11,8 +11,9 @@ From our analysis of the data we retreived through api.geoapify, the folowing co
   - Considering sq km area, Downtown Toronto is the most densely populated with coffee shops. 
   - With relation to total coffee shops, Downtown Toronto has the most coffee shops with wheelchair access.
   - Across all districts, most coffee shops displayed high takeaway option percentage. 
-  - There is no strong relationship between number of coffee shops across district and amenities available. However, it could be inferred that the more populated and developed a region is, the more amenities its coffee shops may have. More research is required to further analyze this.
-  - With relation to total coffee shops, Scarborough confirmed the lowest percentage with 'yes' to internet access
+  - There is no strong relationship between number of coffee shops across district and amenities available. Nort York has the highest number of coffee shops out of all districts, yet, with relation to number of coffee shops, its percentage of wheelchair access and internet access are lower than most districts. 
+  - However, it could be inferred that the more population density and developed a region is, the more amenities its coffee shops may have. More research is required to further analyze this.
+  - With relation to total coffee shops, Scarborough confirmed the lowest percentage with 'yes' to internet access.
   
 Limitations of the data:
   - Information of coffee shops per district may have an overlap over neighbouring districts, as geoapify uses radius to find places using the coordinates, and the area of the districts is shown in square kilometres in more square-type shapes. Therefore, the number may not be fully indicative of coffee shops in one district alone or cover all of the coffee shops within a district.
